@@ -9,3 +9,5 @@ A B-2 stealth bomber cookie cutter for the Hack Club BakeBuild mission, designed
 Model: `b2-bomber-cookie-cutter.step`
 
 ![preview](preview.png)
+
+Onshape design (view only): https://cad.onshape.com/documents/0c0db18b46e423388439605d/w/8054818a6233610f120afecf/e/5d9eca659602f9f2b09589dc
